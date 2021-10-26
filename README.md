@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lhjill
-- 👀 I’m interested in digital arts, python, machine learning
-- 🌱 I’m currently learning developing Search Engines
+- 👀 I’m interested in digital arts
+- 🌱 I’m currently learning to build machine learning app with my friends/teammates
 - 💞️ I’m looking to collaborate on creating a Capstone Project
 - 📫 How to reach me ...by seding an email at fuentesmarf.angel@gmail.com
 
