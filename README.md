@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lhgel
-- 👀 I’m interested in digital arts
+- 👀 I’m interested in designing, digital arts
 - 🌱 I’m currently learning to build machine learning app with my friends/teammates
 - 💞️ I’m looking to collaborate on creating a Capstone Project
 - 📫 How to reach me ...by sending an email at fuentesmarf.angel@gmail.com
