@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amnesiagel
+- 👋 Hi, I’m @uncannycounter0405
 - 👀 I’m interested in designing, digital arts
 - 🌱 I’m currently learning to build machine learning app with my friends/teammates
 - 💞️ I’m looking to collaborate on creating a Capstone Project
