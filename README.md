@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ucounter5115
+- 👋 Hi, I’m @ucountergel5
 - 👀 I’m interested in arts, designing, digital arts, and learning new technologies
 - 🌱 I’m currently finishing compilations for graduation and will study 2D & 3D animation someday
 
