@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ucountergel5
 - 👀 I’m interested in arts, designing, digital arts, developing, and learning new technologies
 - 🌱 I’m currently working on capstone project and compilations for graduation
-- 🏃🌃 will study 2D & 3D animation someday if the Almighty's will permits
+- 🏃 will study 2D & 3D animation someday if the Almighty's will permits
 
 <img src="https://64.media.tumblr.com/034d8d63e15b03dce131db20c42c9f72/b8b0d2431357fceb-e2/s540x810/b2cff17f551187963001df17524a1d567d6ad166.gif" width="1100" />
 
