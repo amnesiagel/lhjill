@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amnesiagel5
+- 👋 Hi, this is @ucountergel
 - 👀 I’m interested in arts, designing, digital arts, developing, and learning new technologies
 - 🏃 will study and pursue 2D & 3D animation someday if the Almighty's will permits 🌱
 
